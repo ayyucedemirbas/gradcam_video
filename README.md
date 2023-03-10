@@ -1,6 +1,8 @@
 # gradcam_video
 
 
+You can download the trained model from here: https://drive.google.com/file/d/1q_co5pUFJD_RZ-ZcKWh5HuAyotALG2Do/view?usp=share_link
+
 
 ![gif_video](https://user-images.githubusercontent.com/8023150/224294781-f992eb86-ad29-4835-9b28-d5ae902cce12.gif)
 
