@@ -4,7 +4,8 @@
 You can download the trained model from here: https://drive.google.com/file/d/1q_co5pUFJD_RZ-ZcKWh5HuAyotALG2Do/view?usp=share_link
 
 
-![gif_video](https://user-images.githubusercontent.com/8023150/224294781-f992eb86-ad29-4835-9b28-d5ae902cce12.gif)
+![heatmap](https://user-images.githubusercontent.com/8023150/236691855-b49656d8-a9f1-46c8-801a-137303fcd1c1.gif)
+
 
 
 ![image](https://user-images.githubusercontent.com/8023150/224294983-0b6dd8d0-e2fc-493c-80d0-b716d074217b.png)
